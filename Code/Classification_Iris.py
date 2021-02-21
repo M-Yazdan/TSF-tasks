@@ -50,7 +50,7 @@ plt.xlabel('Number of clusters')
 plt.ylabel('WCSS') #within cluster sum of squares
 plt.show()
 
-y_pred= classifer.predict(x_test)
+y_pred= kmeans.predict(x_test)
 
 from sklearn.metrics import confusion_matrix
 cm = confusion_matrix(y_test,y_pred)
