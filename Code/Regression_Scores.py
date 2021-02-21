@@ -6,7 +6,7 @@ Created on Sat Feb 22 08:02:11 2020
 """
 
 """TSF TASK#1"""
-'''Predict the percentage of an student based on the no. of study hours.'''
+'''Predict the percentage of a student based on the no. of study hours.'''
 '''Muhammad Yazdan'''
 
 
